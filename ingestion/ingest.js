@@ -77,12 +77,24 @@ async function cfFetch(urlPath, method, body, contentType = "application/json") 
     },
     body,
   });
-  const json = await res.json();
-  if (!json.success) {
+
+  const text = await res.text();
+
+  // Vectorize upsert returns NDJSON — parse only the first line
+  const firstLine = text.split("\n").find((l) => l.trim().length > 0) ?? "{}";
+  let json;
+  try {
+    json = JSON.parse(firstLine);
+  } catch {
+    throw new Error(`Cloudflare API returned non-JSON (${res.status}): ${text}`);
+  }
+
+  if (!res.ok || json.success === false) {
     throw new Error(
-      `Cloudflare API error: ${JSON.stringify(json.errors || json.messages || json)}`
+      `Cloudflare API error (${res.status}): ${JSON.stringify(json.errors || json.messages || text)}`
     );
   }
+
   return json;
 }
 
@@ -97,8 +109,7 @@ async function deleteVectorsForSource(source) {
   if (ids.length === 0) return;
 
   console.log(`  Deleting ${ids.length} existing vectors for source: ${source}`);
-  // Vectorize v2 REST endpoint for bulk delete is /delete-by-ids (mirrors the Worker binding's deleteByIds())
-  await cfFetch("/delete-by-ids", "POST", JSON.stringify({ ids }), "application/json");
+  await cfFetch("/delete_by_ids", "POST", JSON.stringify({ ids }), "application/json");
 }
 
 async function ingestSource(source) {

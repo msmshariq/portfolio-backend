@@ -36,7 +36,7 @@ User (chat UI) → Cloudflare Worker → LangGraph.js RAG pipeline
 
 - **Runtime:** Cloudflare Workers (JS/TS)
 - **AI Orchestration:** LangGraph.js
-- **Embeddings & LLM:** OpenAI API (`text-embedding-3-small` for embeddings, `gpt-4o` for chat)
+- **Embeddings & LLM:** OpenAI API (`text-embedding-3-small` for embeddings, `gpt-5.4-mini` for chat)
 - **Vector Store:** Cloudflare Vectorize
 - **Streaming:** Server-Sent Events (SSE)
 - **Package Manager:** npm
