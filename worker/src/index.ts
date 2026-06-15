@@ -105,7 +105,7 @@ export default {
             model: "gpt-5.4-mini",
             messages,
             stream: true,
-            max_tokens: 1024,
+            max_completion_tokens: 1024,
             temperature: 0.7,
           }),
         }
