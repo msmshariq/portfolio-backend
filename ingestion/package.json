@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-ingestion",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "ingest": "node ingest.js"
+  },
+  "dependencies": {
+    "openai": "^4.100.0",
+    "dotenv": "^16.5.0"
+  }
+}
