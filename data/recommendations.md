@@ -1,10 +1,10 @@
 # LinkedIn Recommendations — Muhammed Shariq
 
----
+## Kanchana Wickremasinghe
 
-**Kanchana Wickremasinghe**
-VP & Field CTO at WSO2 | Founder and Angel Investor
-*January 5, 2025 · Kanchana was senior to Muhammed but didn't manage Muhammed directly*
+**Title:** VP & Field CTO at WSO2 | Founder and Angel Investor
+**Date:** January 5, 2025
+**Relationship:** Senior to Muhammed but didn't manage Muhammed directly
 
 > I had the pleasure of working with Shariq at WSO2, where he demonstrated exceptional leadership as the head of the Choreo SRE team. His technical expertise and dedication were evident in his ability to drive the development and maintenance of a highly scalable and reliable platform.
 >
@@ -18,9 +18,11 @@ VP & Field CTO at WSO2 | Founder and Angel Investor
 
 ---
 
-**Afkham Azeez**
-Head of Operations at WSO2 | Operational Sympathy | CKA | CKAD | Radio Amateur 4S7AZE
-*August 5, 2024 · Afkham managed Muhammed directly*
+## Afkham Azeez
+
+**Title:** Head of Operations at WSO2 | Operational Sympathy | CKA | CKAD | Radio Amateur 4S7AZE
+**Date:** August 5, 2024
+**Relationship:** Afkham managed Muhammed directly
 
 > I have had the pleasure of working with Shariq since he joined WSO2 in 2010 as a fresh graduate. He started on the WSO2 Stratos team, where I was one of the leads, and quickly took on significant development responsibilities. Over the next 14 years, Shariq and I collaborated across various teams and projects, ultimately leading to his role overseeing the WSO2 Choreo, private clouds, and managed cloud SRE teams while reporting to me. Shariq has always been a dedicated team player whom I could trust and delegate tasks to without hesitation. His exceptional technical and analytical skills are matched by his ability to manage people effectively.
 >
@@ -30,9 +32,11 @@ Head of Operations at WSO2 | Operational Sympathy | CKA | CKAD | Radio Amateur 4
 
 ---
 
-**Mohamed Arsath**
-Principal Customer Success Account Manager at Microsoft
-*September 27, 2023 · Mohamed worked with Muhammed but they were at different companies*
+## Mohamed Arsath
+
+**Title:** Principal Customer Success Account Manager at Microsoft
+**Date:** September 27, 2023
+**Relationship:** Worked with Muhammed but they were at different companies
 
 > Shariq and I have collaborated on numerous projects during my tenure as the designated Microsoft Customer Success Manager for WSO2. Shariq played a pivotal role in spearheading many architectural discussions between Microsoft Cloud Solution Architects and the WSO2 team.
 >
@@ -46,32 +50,40 @@ Principal Customer Success Account Manager at Microsoft
 
 ---
 
-**Ching Shi**
-Senior Cloud Engineer at Tieto | AWS | Azure | CKAD
-*June 24, 2022 · Ching reported to Muhammed directly*
+## Ching Shi
+
+**Title:** Senior Cloud Engineer at Tieto | AWS | Azure | CKAD
+**Date:** June 24, 2022
+**Relationship:** Ching reported to Muhammed directly
 
 > I have had many leads throughout my career, but Shariq was a unique team lead. I had the opportunity to work with him for the last 4 years. He leads by example and has great technical knowledge regarding Cloud architecture and SRE best practices. Whenever we worked extra on weekends due to tight deadlines, Shariq was there too with special treats for us helping and motivating. Such gestures made him a caring lead that the whole team appreciated. He is indeed a friendly person and I highly recommend working with him.
 
 ---
 
-**Chamith Kumarage**
-Entrepreneur | Bridging Technology, Hospitality, Sustainability & Conservation
-*June 10, 2022 · Chamith managed Muhammed directly*
+## Chamith Kumarage
+
+**Title:** Entrepreneur | Bridging Technology, Hospitality, Sustainability & Conservation
+**Date:** June 10, 2022
+**Relationship:** Chamith managed Muhammed directly
 
 > Shariq is a Cloud expert. At WSO2, Shariq worked as a senior engineer developing cloud-native software and later as an SRE lead with the ownership of running and managing a public cloud. Needless to say that owning operations of a public cloud platform requires a high level of design skills, excellent technical and management skills, leadership, and discipline. During his time at WSO2, Shariq demonstrated all the above and the ability to prioritize and manage tasks well while helping his teammates. Shariq was the go-to person for anything related to SRE and cloud operations. He's accountable, dedicated, and passionate about what he does. Without a doubt, I can recommend Shariq to any organization.
 
 ---
 
-**Michael "Mikey" Boldt**
-Software Engineer | Research Scientist | Applied Research → Production Systems
-*October 26, 2021 · Michael "Mikey" worked with Muhammed but they were at different companies*
+## Michael "Mikey" Boldt
+
+**Title:** Software Engineer | Research Scientist | Applied Research → Production Systems
+**Date:** October 26, 2021
+**Relationship:** Worked with Muhammed but they were at different companies
 
 > I worked closely with Shariq while he led the development of WSO2's integrations with Pivotal Cloud Foundry. Shariq ramped up quickly on the technology, saw how the WSO2 products fit in, and delivered integrations to meet critical needs of our joint customers. I enjoyed my time working with Shariq, and hope we will collaborate in the future.
 
 ---
 
-**Dmitry Sotnikov**
-Chief Product Officer @ Cayosoft | Accelerated Growth, Cloud, Enterprise Security
-*August 5, 2021 · Dmitry managed Muhammed directly*
+## Dmitry Sotnikov
+
+**Title:** Chief Product Officer @ Cayosoft | Accelerated Growth, Cloud, Enterprise Security
+**Date:** August 5, 2021
+**Relationship:** Dmitry managed Muhammed directly
 
 > Shariq was one of the brilliant engineers in my WSO2 Cloud team. He has consistently demonstrated a great quality of work, the ability to meet deadlines, learn new technologies, and figure out the best approach to solving any task.

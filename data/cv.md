@@ -3,7 +3,7 @@
 **Cloud Platform Engineering Leader | Site Reliability Engineering | DevSecOps**  
 **Architect — Azure, Kubernetes, SRE, GCP, AWS, Software Engineering, Cloud Architecture**
 
-Dubai, UAE | +971 50 689 5041 | msmshariq@gmail.com | linkedin.com/in/msmshariq
+Dubai, UAE | linkedin.com/in/msmshariq
 
 ---
 
